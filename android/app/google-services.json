@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229974728259",
+    "project_id": "trace-61a32",
+    "storage_bucket": "trace-61a32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229974728259:android:0499c2dc5f0cfa5b617ef6",
+        "android_client_info": {
+          "package_name": "com.example.trackandtrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229974728259-koghfdkl8kkvfojdrchvkqkbivjds6ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7aSqp9SzbJDUgXy4VEEyiZ-tMlrf5rWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229974728259-koghfdkl8kkvfojdrchvkqkbivjds6ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
